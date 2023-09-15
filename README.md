@@ -22,7 +22,7 @@ pod 'CustomDesignableX'
 
 ## Author
 
-emad habib, ehabib@sarmady.net
+emad habib, emad.habib.pro@gmail.com
 
 ## License
 

@@ -1,3 +1,5 @@
+source 'ssh://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 platform :ios, '10.0'
@@ -8,6 +10,6 @@ target 'CustomDesignableX_Example' do
   target 'CustomDesignableX_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+#    pod 'FBSnapshotTestCase' , '~> 2.1.4'
   end
 end
