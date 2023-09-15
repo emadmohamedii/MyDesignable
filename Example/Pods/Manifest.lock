@@ -1,0 +1,16 @@
+PODS:
+  - CustomDesignableX (0.1.0)
+
+DEPENDENCIES:
+  - CustomDesignableX (from `../`)
+
+EXTERNAL SOURCES:
+  CustomDesignableX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomDesignableX: daefb6896dafc20ba1a1238e9551df2ddd86617d
+
+PODFILE CHECKSUM: ab287acd39620df53bc3856ed1971058429f9d3f
+
+COCOAPODS: 1.12.1

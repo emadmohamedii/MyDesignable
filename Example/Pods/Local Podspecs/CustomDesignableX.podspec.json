@@ -1,0 +1,22 @@
+{
+  "name": "CustomDesignableX",
+  "version": "0.1.0",
+  "summary": "A short description of CustomDesignableX.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/emad habib/CustomDesignableX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "emad habib": "ehabib@sarmady.net"
+  },
+  "source": {
+    "git": "https://github.com/emad habib/CustomDesignableX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CustomDesignableX/Classes/**/*"
+}
