@@ -148,6 +148,24 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
+		75CE2B162AB4911C008D9555 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				75CE2B022AB48B97008D9555 /* DesignableX.swift */,
+				75CE2B042AB48B97008D9555 /* UIButtonX.swift */,
+				75CE2B062AB48B97008D9555 /* UIImageViewX.swift */,
+				75CE2B002AB48B97008D9555 /* UILabelX.swift */,
+				75CE2B052AB48B97008D9555 /* UISliderX.swift */,
+				75CE2B032AB48B97008D9555 /* UITextFieldX.swift */,
+				75CE2B092AB48B98008D9555 /* UIViewAnchorPoint.swift */,
+				75CE2B072AB48B97008D9555 /* UIViewControllerX.swift */,
+				75CE2B012AB48B97008D9555 /* UIViewX.swift */,
+				75CE2B0A2AB48B98008D9555 /* UIViewXRadialGradient.swift */,
+				75CE2B082AB48B97008D9555 /* UIVisualEffectViewX.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		7A0A72444E85264EBE237A4182175D81 /* Pods-CustomDesignableX_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -235,17 +253,7 @@
 		EE63008326B4912102182FC426F72FC2 /* CustomDesignableX */ = {
 			isa = PBXGroup;
 			children = (
-				75CE2B022AB48B97008D9555 /* DesignableX.swift */,
-				75CE2B042AB48B97008D9555 /* UIButtonX.swift */,
-				75CE2B062AB48B97008D9555 /* UIImageViewX.swift */,
-				75CE2B002AB48B97008D9555 /* UILabelX.swift */,
-				75CE2B052AB48B97008D9555 /* UISliderX.swift */,
-				75CE2B032AB48B97008D9555 /* UITextFieldX.swift */,
-				75CE2B092AB48B98008D9555 /* UIViewAnchorPoint.swift */,
-				75CE2B072AB48B97008D9555 /* UIViewControllerX.swift */,
-				75CE2B012AB48B97008D9555 /* UIViewX.swift */,
-				75CE2B0A2AB48B98008D9555 /* UIViewXRadialGradient.swift */,
-				75CE2B082AB48B97008D9555 /* UIVisualEffectViewX.swift */,
+				75CE2B162AB4911C008D9555 /* Classes */,
 				69FB8799C515D565973C5144ED8FDF3E /* Pod */,
 				C0B875F7FABE06316BFBA740E0C2E8B0 /* Support Files */,
 			);
